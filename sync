@@ -1,0 +1,6 @@
+git push myhvacshop master
+git pull myhvacshop master
+git push
+git pull
+git add .
+git commit -m "scripted sync"
